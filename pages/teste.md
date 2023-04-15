@@ -18,8 +18,14 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse posuere, ma
 
 <br>
 
-> Diretório src teste/assets/icons/linux.png
+> Diretório src ./assets/icons/linux.png
 
-### <img width="25" height="" src="teste/assets/icons/linux.png"> Lorem ipsum
+### <img width="25" height="" src="./assets/icons/linux.png"> Lorem ipsum
+
+<br>
+
+> Diretório src ../assets/icons/linux.png
+
+### <img width="25" height="" src="../assets/icons/linux.png"> Lorem ipsum
 
 <br>
