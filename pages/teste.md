@@ -7,11 +7,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse posuere, ma
 
 ### Jogos
 
-- [Jogos](../page/games/jogos.md)
-- [Jogos](page/games/jogos.md)
-
-- [Jogos](../page/games/jogos)
-- [Jogos](page/games/jogos)
+- [Jogos](../pages/games/jogos.md)
+- [Jogos](/pages/games/jogos.md)
 
 <br>
 
