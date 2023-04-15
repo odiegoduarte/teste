@@ -8,7 +8,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse posuere, ma
 ### Jogos
 
 - [Jogos](../pages/games/jogos.md)
-- [Jogos](/pages/games/jogos.md)
 
 <br>
 
