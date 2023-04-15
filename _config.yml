@@ -6,8 +6,8 @@ gem "github-pages", group: :jekyll_plugins
 title: Game Tweak
 
 github:
-  home_url: https://odiegoduarte.github.io/pages/teste
-  csgo_url: https://odiegoduarte.github.io/pages/teste2
+  home_url: https://odiegoduarte.github.io/teste
+  teste_url: https://odiegoduarte.github.io/pages/teste
 
 
 ---
