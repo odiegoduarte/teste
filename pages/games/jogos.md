@@ -6,16 +6,8 @@
 - Nome Jogo
 - Nome Jogo
 
+~~~
+ <img width="25" height="" src="https://odiegoduarte.github.io/teste/assets/icons/linux.png">
+~~~
 
-
-> Diretório src ./assets/icons/linux.png
-
-### <img width="25" height="" src="./assets/icons/linux.png"> Lorem ipsum
-
-
-> Diretório src /assets/icons/linux.png
-
-### <img width="25" height="" src="/assets/icons/linux.png"> Lorem ipsum
-
-
-### <img width="25" height="" src="https://odiegoduarte.github.io/teste/assets/icons/linux.png"> Link completo
+### <img width="25" height="" src="https://odiegoduarte.github.io/teste/assets/icons/linux.png"> Url
